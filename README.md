@@ -70,10 +70,10 @@ The SQL file is organized into 8 professional sections:
 ## 📊 Dashboard
 
 ### Page 1 — Core Insights
-![Page 1](dashboard/Customer_Churn_Analysis.png)
+![Page 1](dashboards/Customer_Churn_Analysis.png)
 
 ### Page 2 — Advanced Insights
-![Page 2](dashboard/Customer_Churn_Advanced_Analysis_Insights.png)
+![Page 2](dashboards/Customer_Churn_Advanced_Analysis_Insights.png)
 
 ---
 
